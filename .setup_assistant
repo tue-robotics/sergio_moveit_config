@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: sergio_description
+    relative_path: urdf/sergio.urdf.xacro
+  SRDF:
+    relative_path: config/sergio.srdf
+  CONFIG:
+    author_name: Loy van Beek
+    author_email: loy.vanbeek@gmail.com
+    generated_timestamp: 1523997910

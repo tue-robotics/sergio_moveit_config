@@ -1,0 +1,11 @@
+controller_list:
+  - name: fake_torso_controller
+    joints:
+      - ankle_joint
+      - knee_joint
+      - hip_joint
+  - name: fake_body_controller
+    joints:
+      - ankle_joint
+      - knee_joint
+      - hip_joint
